@@ -1,6 +1,10 @@
-# top-landing-page
-"brown mallard duck on a body of water at daytime" Photo by [Andrea Sonda](https://unsplash.com/@andreasonda?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-mallard-duck-on-body-of-water-at-daytime--2Kca_ipKc8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
-"a duck is swimming in the water" Photo by [Ronan Hello](https://unsplash.com/@ronan_hello?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-duck-is-swimming-in-the-water-jj1DVLanIYo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
-"shallow focus photo of brown duck" Photo by [Pete Nuij](https://unsplash.com/@pete_nuij?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-brown-duck-J2WhZF2bYTI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
-"a white duck walking in a dirty ground" Photo by [Syed Fahim Haider](https://unsplash.com/@jaffrix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-white-duck-walking-on-a-dirty-ground--X0lpmemMvI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
-"a white duck standing in a body of water" Photo by [Jessica Kirkpatrick](https://unsplash.com/@msanimalia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-white-duck-standing-in-a-body-of-water-5cJH3y1iEfY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+# Credits
+-"brown mallard duck on a body of water at daytime" Photo by [Andrea Sonda](https://unsplash.com/@andreasonda?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/brown-mallard-duck-on-body-of-water-at-daytime--2Kca_ipKc8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).\
+
+-"a duck is swimming in the water" Photo by [Ronan Hello](https://unsplash.com/@ronan_hello?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-duck-is-swimming-in-the-water-jj1DVLanIYo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).\
+
+-"shallow focus photo of brown duck" Photo by [Pete Nuij](https://unsplash.com/@pete_nuij?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-brown-duck-J2WhZF2bYTI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).\
+
+-"a white duck walking in a dirty ground" Photo by [Syed Fahim Haider](https://unsplash.com/@jaffrix?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-white-duck-walking-on-a-dirty-ground--X0lpmemMvI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).\
+
+-"a white duck standing in a body of water" Photo by [Jessica Kirkpatrick](https://unsplash.com/@msanimalia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-white-duck-standing-in-a-body-of-water-5cJH3y1iEfY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
