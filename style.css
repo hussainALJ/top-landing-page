@@ -25,7 +25,7 @@ body {
     align-items: center;
 }
 
-.text {
+.hero .text {
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -55,6 +55,7 @@ ul{
     list-style-type: none;
     padding: 0;
     margin: 0;
+    align-self: center;
     display: flex;
     gap: 16px;
 }
@@ -63,4 +64,25 @@ a {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
+}
+
+.info {
+    padding: 48px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+}
+
+.info .text {
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.info li {
+    flex-basis: 100px;
+    margin-left: 24px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
 }
