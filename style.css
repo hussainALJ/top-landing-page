@@ -1,22 +1,54 @@
 body {
+    margin: 0;
     font-family: Roboto, sans-serif;
 }
 
 .header {
     background-color: #1f2937;
     color: #f9faf8;
+    padding: 16px 208px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-}
-
-.hero {
-    background-color: #1f2937;
 }
 
 .logo {
     font-size: 24px;
     font-weight: 900;
+}
+
+.hero {
+    background-color: #1f2937;
+    padding: 80px 208px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.main {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.secondary {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.hero button {
+    background-color: #3886f6;
+    color: #f9faf8;
+    width: 75px;
+    border-radius: 6px;
+    border: 0;
+    padding: 4px;
 }
 
 ul{
