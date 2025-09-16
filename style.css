@@ -17,6 +17,11 @@ body {
     font-weight: 900;
 }
 
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
 .hero {
     background-color: #1f2937;
     padding: 80px 208px;
@@ -42,13 +47,16 @@ body {
     font-size: 18px;
 }
 
-.hero button {
-    background-color: #3886f6;
-    color: #f9faf8;
+.sign-up {
     width: 75px;
     border-radius: 6px;
-    border: 0;
     padding: 4px;
+}
+
+.hero button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 0;
 }
 
 ul{
@@ -67,7 +75,7 @@ a {
 }
 
 .info {
-    padding: 48px 0;
+    padding-top: 48px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -85,4 +93,58 @@ a {
     text-align: center;
     display: flex;
     flex-direction: column;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    align-self: stretch;
+    margin-top: 90px;
+    padding: 138px 0px;
+}
+
+.quote .text {
+    font-weight: 300;
+    width: 830px;
+    margin: 0 auto;
+}
+
+.quote .thor {
+    font-weight: 600;
+    text-align: right;
+}
+
+.action {
+    align-self: center;
+    background-color: #3882f6;
+    padding: 32px 64px;
+    margin: 96px 0;
+    display: flex;
+    gap: 96px;
+}
+
+.action .text {
+    display: flex;
+    flex-direction: column;
+}
+
+.action .main {
+    font-size: 24px;
+}
+
+.action .secondary {
+    font-size: 16px;
+}
+
+.action button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    align-self: center;
+    border: 2px solid #f9faf8;
+}
+
+.footer {
+    background-color: #1f2936;
+    color: #f9faf8;
+    text-align: center;
+    padding: 48px 0;
 }
