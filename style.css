@@ -24,14 +24,16 @@ body {
 
 .hero {
     background-color: #1f2937;
-    padding: 80px 208px;
+    padding: 80px 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     gap: 63px;
 }
 
 .hero .text {
+    width: 30%;
+    flex-shrink: 1;
     display: flex;
     flex-direction: column;
     gap: 8px;
@@ -88,9 +90,12 @@ a {
     color: #1f2937;
 }
 
+.info ul {
+    gap: 100px;
+}
+
 .info li {
     flex-basis: 100px;
-    margin-left: 24px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -99,19 +104,22 @@ a {
 .quote {
     background-color: #e5e7eb;
     align-self: stretch;
-    margin-top: 90px;
-    padding: 138px 0px;
+    margin-top: 190px;
+    padding: 100px 0px;
 }
 
 .quote .text {
     font-weight: 300;
-    width: 830px;
+    width: 800px;
+    font-size: 36px;
     margin: 0 auto;
 }
 
 .quote .thor {
     font-weight: 600;
     text-align: right;
+    font-size: 24px;
+    margin-right: 10px;
 }
 
 .action {
